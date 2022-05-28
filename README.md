@@ -8,7 +8,7 @@ for science
 
 ### contact
 ```contact
-_contact@mrsrobot.anonaddy.me_
+contact@mrsrobot.anonaddy.me
 ```
 
 For more details see [deeznutz]
