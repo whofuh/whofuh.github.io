@@ -90,7 +90,7 @@ function encrypt(password) {
 
 gulp.task('firewall:encrypt', () => {
   return gulp.src('_protected/*.*')
-    .pipe(encrypt('iclick4ndwhiffFUCK!'))
+    .pipe(encrypt('paparapapalovekoto'))
     .pipe(gulp.dest('_posts'));
 });
 
