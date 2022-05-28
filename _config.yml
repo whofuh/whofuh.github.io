@@ -18,8 +18,9 @@ email: contact@mrsrobot.anonaddy.me
 description: > # this means to ignore newlines until "baseurl:"
   fuck u.
 baseurl: "/jekyll-firewall" # the subpath of your site, e.g. /blog
-url: "https://whofuh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  hufa
+url: "https://github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: jekyll-theme-hacker
