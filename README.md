@@ -7,11 +7,9 @@ chronicles of a genious boomer bloomed late
 for science
 
 ### contact
-```contact
-contact@mrsrobot.anonaddy.me
-```
+**_contact@mrsrobot.anonaddy.me_**
 
-For more details see [deeznutz]
+For more details see ```[deeznutz]```
 
 ### support a boomer
 
