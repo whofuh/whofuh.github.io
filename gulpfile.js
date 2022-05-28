@@ -88,10 +88,10 @@ function encrypt(password) {
   });
 }
 
-gulp.task('encrypt', () => {
-  return gulp.src('whofuh.github.io')
-    .pipe(encrypt('gitdeez2nutzOOF!'))
-    .pipe(gulp.dest('_protected'));
+gulp.task('firewall:encrypt', () => {
+  return gulp.src('_protected/*.*')
+    .pipe(encrypt('iclick4ndwhiffFUCK!'))
+    .pipe(gulp.dest('_posts'));
 });
 
 gulp.task('firewall:watch', () => {
